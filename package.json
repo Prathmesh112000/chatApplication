@@ -21,6 +21,6 @@
     "build": "npm install --legacy-peer-deps && npm install --legacy-peer-deps --prefix Client/new-chat-app && npm run build --prefix Client/new-chat-app"
   },
   "keywords": [],
-  "author": "",
+  "author": "a",
   "license": "ISC"
 }
